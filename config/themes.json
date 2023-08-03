@@ -19,23 +19,23 @@
                     "ButtonMargin":  "0,3,0,3",
                     "ButtonCornerRadius": "0"
                 },
-    "Matrix":  {
-                   "ComboBoxBackgroundColor":  "#000000",
-                   "LabelboxForegroundColor":  "#FFEE58",
-                   "MainForegroundColor":  "#9CCC65",
-                   "MainBackgroundColor":  "#000000",
-                   "LabelBackgroundColor":  "#000000",
-                   "ComboBoxForegroundColor":  "#FFEE58",
+   "Matrix":  {
+                    "ComboBoxBackgroundColor":  "#292929",
+                   "LabelboxForegroundColor":  "#0F78AD",
+                   "MainForegroundColor":  "#0F78AD",
+                   "MainBackgroundColor":  "#292929",
+                   "LabelBackgroundColor":  "#292929",
+                   "ComboBoxForegroundColor":  "#0F78AD",
                    "ButtonInstallBackgroundColor":  "#222222",
                    "ButtonTweaksBackgroundColor":  "#333333",
                    "ButtonConfigBackgroundColor":  "#444444",
                    "ButtonUpdatesBackgroundColor":  "#555555",
                    "ButtonInstallForegroundColor":  "#FFFFFF",
-                   "ButtonBackgroundColor":  "#000000",
+                   "ButtonBackgroundColor":  "#292929",
                    "ButtonBackgroundPressedColor":  "#FFFFFF",
                    "ButtonBackgroundMouseoverColor":  "#A55A64",
-                   "ButtonForegroundColor":  "#9CCC65",
-                   "ButtonBorderThickness":  "3",
+                   "ButtonForegroundColor":  "#0F78AD",
+                   "ButtonBorderThickness":  "2",
                    "ButtonMargin":  "2",
                    "ButtonCornerRadius": "4"
                }
